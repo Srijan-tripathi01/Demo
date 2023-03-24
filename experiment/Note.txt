@@ -1,0 +1,2 @@
+  Added this folder and file to check the use of upstream ,where the origin/main name is set as main
+  so all a user is needed to do is git push or git pull intead of using git push origin main or git pull origin main.
